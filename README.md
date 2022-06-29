@@ -54,14 +54,21 @@ We can modify products and scheduling algorithms in `configs` variable.
 
 At first, the program asks for the number of products.
 
+<img width="400px" src="https://cdn.discordapp.com/attachments/732234196487241741/991724720145830009/unknown.png" />
+
 ## Insert product data
 
 The program introduces the available products to us and then we have to enter the information about each product.
+
+<img width="400px" src="https://cdn.discordapp.com/attachments/732234196487241741/991725741559517244/unknown.png" />
+
 
 The requested information for each product is as follows:
 - Product Name
 - Number required for production
 - Priority (for FP algorithm)
+
+<img width="400px" src="https://cdn.discordapp.com/attachments/732234196487241741/991725791341719712/unknown.png" />
 
 ### Summery
 
@@ -82,6 +89,8 @@ Products:
 
 After our products are identified, we must select the desired algorithm from one of the items displayed to us.
 
+<img width="400px" src="https://cdn.discordapp.com/attachments/732234196487241741/991725853039919224/unknown.png" />
+
 ## Set deadline and checking feasibility
 
 Next in the deadline section we have to enter the unit value that we can wait for the whole production process to be done.
@@ -95,6 +104,8 @@ At any moment we can see how many units of work have been done and the status of
 - 🟢 Green Tasks: Completed
 - 🟡 Yellow Tasks: Ongoing
 - 🔴 Red Tasks: Pending
+
+<img width="400px" src="https://cdn.discordapp.com/attachments/732234196487241741/991725906282426399/unknown.png" />
 
 ## Test cases
 
